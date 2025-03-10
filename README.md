@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-# 🏥 Decentralized Medical Records System
+# 🏥 Decentralized Medical Records System [Meddit]
 
 A **blockchain-based** solution for securely storing and sharing medical records while giving **patients full control** over their data. Built with **Next.js, Solidity, and Ethereum Smart Contracts**, this system ensures **privacy, security, and transparency** in healthcare data management.
 
