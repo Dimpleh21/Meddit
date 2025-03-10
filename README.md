@@ -11,34 +11,20 @@ A **blockchain-based** solution for securely storing and sharing medical records
 - **Smart Contract Verification** – Only verified hospitals can upload records.
 - **Emergency Access** – Patients can set emergency contacts to access records when needed.
 
+## 🌍 Live Demo
+
+Check out the deployed application here:  
+🔗 **[Meddit Live]([https://new-proj-lime.vercel.app/])**  
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js, React, Tailwind CSS  
-- **Blockchain:** Solidity, Ethereum, Remix 
+- **Blockchain:** Solidity, Ethereum, Remix  
 - **Authentication:** MetaMask, Web3.js  
-
 
 ## 🏗️ Installation & Setup
 
 ### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/yourusername/decentralized-medical-records.git
-cd decentralized-medical-records
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
