@@ -14,7 +14,7 @@ A **blockchain-based** solution for securely storing and sharing medical records
 ## 🌍 Live Demo
 
 Check out the deployed application here:  
-🔗 **[Meddit Live]([https://new-proj-lime.vercel.app/])**  
+🔗 **[Meddit Live](https://new-proj-lime.vercel.app/)**  
 
 ## 🛠️ Tech Stack
 
