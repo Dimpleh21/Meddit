@@ -1,4 +1,30 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏥 Decentralized Medical Records System
+
+A **blockchain-based** solution for securely storing and sharing medical records while giving **patients full control** over their data. Built with **Next.js, Solidity, and Ethereum Smart Contracts**, this system ensures **privacy, security, and transparency** in healthcare data management.
+
+## 🚀 Features
+
+- **Patient-Controlled Records** – Patients own their medical records and control access.
+- **Blockchain Security** – Data is stored securely on-chain, preventing unauthorized tampering.
+- **Wallet-Based Authentication** – Patients and hospitals authenticate via **MetaMask**.
+- **Smart Contract Verification** – Only verified hospitals can upload records.
+- **Emergency Access** – Patients can set emergency contacts to access records when needed.
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React, Tailwind CSS  
+- **Blockchain:** Solidity, Ethereum, Remix 
+- **Authentication:** MetaMask, Web3.js  
+
+
+## 🏗️ Installation & Setup
+
+### 1️⃣ Clone the repository:
+```bash
+git clone https://github.com/yourusername/decentralized-medical-records.git
+cd decentralized-medical-records
 
 ## Getting Started
 
@@ -34,3 +60,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
